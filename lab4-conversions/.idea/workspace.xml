@@ -15,11 +15,13 @@
       <file leaf-file-name="ConversionFunctions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/pcc/cis/conversion/ConversionFunctions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="408">
+              <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
               <folding>
                 <element signature="e#598#599#0" expanded="true" />
                 <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#935#936#0" expanded="true" />
+                <element signature="e#969#970#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -28,8 +30,8 @@
       <file leaf-file-name="ConversionFunctionsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/pcc/cis/conversion/ConversionFunctionsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="33" column="65" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
+            <state relative-caret-position="405">
+              <caret line="86" column="2" lean-forward="true" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#291#292#0" expanded="true" />
@@ -39,7 +41,15 @@
                 <element signature="e#650#651#0" expanded="true" />
                 <element signature="e#679#680#0" expanded="true" />
                 <element signature="e#1103#1104#0" expanded="true" />
-                <element signature="e#1178#1179#0" expanded="true" />
+                <element signature="e#1177#1178#0" expanded="true" />
+                <element signature="e#1443#1444#0" expanded="true" />
+                <element signature="e#1473#1474#0" expanded="true" />
+                <element signature="e#1791#1792#0" expanded="true" />
+                <element signature="e#1821#1822#0" expanded="true" />
+                <element signature="e#1985#1986#0" expanded="true" />
+                <element signature="e#2015#2016#0" expanded="true" />
+                <element signature="e#2114#2115#0" expanded="true" />
+                <element signature="e#2144#2145#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,8 +68,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/edu/pcc/cis/conversion/ConversionFunctions.java" />
         <option value="$PROJECT_DIR$/src/edu/pcc/cis/conversion/ConversionFunctionsTest.java" />
+        <option value="$PROJECT_DIR$/src/edu/pcc/cis/conversion/ConversionFunctions.java" />
       </list>
     </option>
   </component>
@@ -120,11 +130,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ConversionFunctionsTest.celsiusNegative17IsFahrenheit0">
+  <component name="RunManager" selected="JUnit.ConversionFunctionsTest.invalidMonthReturnsEmptyString">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ConversionFunctionsTest.celsius16IsFahrenheit61" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab4-conversions" />
       <extension name="coverage">
         <pattern>
@@ -136,7 +146,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="edu.pcc.cis.conversion" />
       <option name="MAIN_CLASS_NAME" value="edu.pcc.cis.conversion.ConversionFunctionsTest" />
-      <option name="METHOD_NAME" value="celsius16IsFahrenheit61" />
+      <option name="METHOD_NAME" value="invalidMonthReturnsEmptyString" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -147,7 +157,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ConversionFunctionsTest.celsiusNegative10IsFahrenheit14" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConversionFunctionsTest.months1through12AreJanuaryThroughDecember" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab4-conversions" />
       <extension name="coverage">
         <pattern>
@@ -159,7 +169,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="edu.pcc.cis.conversion" />
       <option name="MAIN_CLASS_NAME" value="edu.pcc.cis.conversion.ConversionFunctionsTest" />
-      <option name="METHOD_NAME" value="celsiusNegative10IsFahrenheit14" />
+      <option name="METHOD_NAME" value="months1through12AreJanuaryThroughDecember" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -170,7 +180,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ConversionFunctionsTest.celsiusNegative17IsFahrenheit0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConversionFunctionsTest.oneCupIs16Tablespoons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab4-conversions" />
       <extension name="coverage">
         <pattern>
@@ -182,7 +192,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="edu.pcc.cis.conversion" />
       <option name="MAIN_CLASS_NAME" value="edu.pcc.cis.conversion.ConversionFunctionsTest" />
-      <option name="METHOD_NAME" value="celsiusNegative17IsFahrenheit0" />
+      <option name="METHOD_NAME" value="oneCupIs16Tablespoons" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -193,7 +203,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ConversionFunctionsTest.celsiusNegative20IsFahrenheitNegative4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConversionFunctionsTest.sixCupsIs96Tablespoons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab4-conversions" />
       <extension name="coverage">
         <pattern>
@@ -205,7 +215,30 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="edu.pcc.cis.conversion" />
       <option name="MAIN_CLASS_NAME" value="edu.pcc.cis.conversion.ConversionFunctionsTest" />
-      <option name="METHOD_NAME" value="celsiusNegative20IsFahrenheitNegative4" />
+      <option name="METHOD_NAME" value="sixCupsIs96Tablespoons" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ConversionFunctionsTest.tenCupsIs160Tablespoons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4-conversions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.pcc.cis.conversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.pcc.cis.conversion" />
+      <option name="MAIN_CLASS_NAME" value="edu.pcc.cis.conversion.ConversionFunctionsTest" />
+      <option name="METHOD_NAME" value="tenCupsIs160Tablespoons" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -255,17 +288,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ConversionFunctionsTest.celsius16IsFahrenheit61" />
-      <item itemvalue="JUnit.ConversionFunctionsTest.celsiusNegative10IsFahrenheit14" />
-      <item itemvalue="JUnit.ConversionFunctionsTest.celsiusNegative20IsFahrenheitNegative4" />
-      <item itemvalue="JUnit.ConversionFunctionsTest.celsiusNegative17IsFahrenheit0" />
+      <item itemvalue="JUnit.ConversionFunctionsTest.oneCupIs16Tablespoons" />
+      <item itemvalue="JUnit.ConversionFunctionsTest.sixCupsIs96Tablespoons" />
+      <item itemvalue="JUnit.ConversionFunctionsTest.tenCupsIs160Tablespoons" />
+      <item itemvalue="JUnit.ConversionFunctionsTest.months1through12AreJanuaryThroughDecember" />
+      <item itemvalue="JUnit.ConversionFunctionsTest.invalidMonthReturnsEmptyString" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ConversionFunctionsTest.celsiusNegative17IsFahrenheit0" />
-        <item itemvalue="JUnit.ConversionFunctionsTest.celsiusNegative20IsFahrenheitNegative4" />
-        <item itemvalue="JUnit.ConversionFunctionsTest.celsiusNegative10IsFahrenheit14" />
-        <item itemvalue="JUnit.ConversionFunctionsTest.celsius16IsFahrenheit61" />
+        <item itemvalue="JUnit.ConversionFunctionsTest.invalidMonthReturnsEmptyString" />
+        <item itemvalue="JUnit.ConversionFunctionsTest.months1through12AreJanuaryThroughDecember" />
+        <item itemvalue="JUnit.ConversionFunctionsTest.tenCupsIs160Tablespoons" />
+        <item itemvalue="JUnit.ConversionFunctionsTest.sixCupsIs96Tablespoons" />
+        <item itemvalue="JUnit.ConversionFunctionsTest.oneCupIs16Tablespoons" />
       </list>
     </recent_temporary>
   </component>
@@ -283,14 +318,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ConversionFunctionsTest_celsius16IsFahrenheit61 - 2018.05.01 at 19h 49m 10s.xml">
-      <configuration name="ConversionFunctionsTest.celsius16IsFahrenheit61" configurationId="JUnit" />
+    <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 16m 13s.xml">
+      <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConversionFunctionsTest_celsiusNegative10IsFahrenheit14 - 2018.05.01 at 19h 50m 18s.xml">
-      <configuration name="ConversionFunctionsTest.celsiusNegative10IsFahrenheit14" configurationId="JUnit" />
+    <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 16m 52s.xml">
+      <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConversionFunctionsTest_celsiusNegative20IsFahrenheitNegative4 - 2018.05.01 at 19h 52m 32s.xml">
-      <configuration name="ConversionFunctionsTest.celsiusNegative20IsFahrenheitNegative4" configurationId="JUnit" />
+    <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 17m 01s.xml">
+      <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConversionFunctionsTest_months1through12AreJanuaryThroughDecember - 2018.05.01 at 20h 17m 04s.xml">
+      <configuration name="ConversionFunctionsTest.months1through12AreJanuaryThroughDecember" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 17m 26s.xml">
+      <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 17m 34s.xml">
+      <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 17m 45s.xml">
+      <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 17m 58s.xml">
+      <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 18m 19s.xml">
+      <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 21m 34s.xml">
+      <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -299,7 +355,7 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32992035" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -328,22 +384,29 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/edu/pcc/cis/conversion/ConversionFunctions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="408">
+          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
           <folding>
             <element signature="e#598#599#0" expanded="true" />
             <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#969#970#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/pcc/cis/conversion/ConversionFunctionsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="33" column="65" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
+        <state relative-caret-position="405">
+          <caret line="86" column="2" lean-forward="true" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#291#292#0" expanded="true" />
@@ -353,7 +416,15 @@
             <element signature="e#650#651#0" expanded="true" />
             <element signature="e#679#680#0" expanded="true" />
             <element signature="e#1103#1104#0" expanded="true" />
-            <element signature="e#1178#1179#0" expanded="true" />
+            <element signature="e#1177#1178#0" expanded="true" />
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1473#1474#0" expanded="true" />
+            <element signature="e#1791#1792#0" expanded="true" />
+            <element signature="e#1821#1822#0" expanded="true" />
+            <element signature="e#1985#1986#0" expanded="true" />
+            <element signature="e#2015#2016#0" expanded="true" />
+            <element signature="e#2114#2115#0" expanded="true" />
+            <element signature="e#2144#2145#0" expanded="true" />
           </folding>
         </state>
       </provider>
