@@ -57,8 +57,8 @@ public class ConversionFunctionsTest {
     }
 
     @Test
-    public void tenCupsIs160Tablespoons() {
-        assertEquals(160, ConversionFunctions.cupsToTablespoons(10));
+    public void fiveCupsIs80Tablespoons() {
+        assertEquals(80, ConversionFunctions.cupsToTablespoons(5));
     }
 
     // monthNumToMonthName tests ---------------------------------------------------------------------------

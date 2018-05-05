@@ -30,8 +30,8 @@
       <file leaf-file-name="ConversionFunctionsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/pcc/cis/conversion/ConversionFunctionsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="86" column="2" lean-forward="true" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
+            <state relative-caret-position="320">
+              <caret line="60" column="64" selection-start-line="60" selection-start-column="64" selection-end-line="60" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#291#292#0" expanded="true" />
@@ -50,6 +50,8 @@
                 <element signature="e#2015#2016#0" expanded="true" />
                 <element signature="e#2114#2115#0" expanded="true" />
                 <element signature="e#2144#2145#0" expanded="true" />
+                <element signature="e#3860#3861#0" expanded="true" />
+                <element signature="e#3938#3939#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,8 +70,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/edu/pcc/cis/conversion/ConversionFunctionsTest.java" />
         <option value="$PROJECT_DIR$/src/edu/pcc/cis/conversion/ConversionFunctions.java" />
+        <option value="$PROJECT_DIR$/src/edu/pcc/cis/conversion/ConversionFunctionsTest.java" />
       </list>
     </option>
   </component>
@@ -130,9 +132,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ConversionFunctionsTest.invalidMonthReturnsEmptyString">
+  <component name="RunManager" selected="JUnit.ConversionFunctionsTest.fiveCupsIs80Tablespoons">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ConversionFunctionsTest.fiveCupsIs80Tablespoons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4-conversions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.pcc.cis.conversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.pcc.cis.conversion" />
+      <option name="MAIN_CLASS_NAME" value="edu.pcc.cis.conversion.ConversionFunctionsTest" />
+      <option name="METHOD_NAME" value="fiveCupsIs80Tablespoons" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab4-conversions" />
@@ -170,29 +195,6 @@
       <option name="PACKAGE_NAME" value="edu.pcc.cis.conversion" />
       <option name="MAIN_CLASS_NAME" value="edu.pcc.cis.conversion.ConversionFunctionsTest" />
       <option name="METHOD_NAME" value="months1through12AreJanuaryThroughDecember" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ConversionFunctionsTest.oneCupIs16Tablespoons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lab4-conversions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.pcc.cis.conversion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="edu.pcc.cis.conversion" />
-      <option name="MAIN_CLASS_NAME" value="edu.pcc.cis.conversion.ConversionFunctionsTest" />
-      <option name="METHOD_NAME" value="oneCupIs16Tablespoons" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -288,19 +290,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ConversionFunctionsTest.oneCupIs16Tablespoons" />
       <item itemvalue="JUnit.ConversionFunctionsTest.sixCupsIs96Tablespoons" />
       <item itemvalue="JUnit.ConversionFunctionsTest.tenCupsIs160Tablespoons" />
       <item itemvalue="JUnit.ConversionFunctionsTest.months1through12AreJanuaryThroughDecember" />
       <item itemvalue="JUnit.ConversionFunctionsTest.invalidMonthReturnsEmptyString" />
+      <item itemvalue="JUnit.ConversionFunctionsTest.fiveCupsIs80Tablespoons" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConversionFunctionsTest.fiveCupsIs80Tablespoons" />
         <item itemvalue="JUnit.ConversionFunctionsTest.invalidMonthReturnsEmptyString" />
         <item itemvalue="JUnit.ConversionFunctionsTest.months1through12AreJanuaryThroughDecember" />
         <item itemvalue="JUnit.ConversionFunctionsTest.tenCupsIs160Tablespoons" />
         <item itemvalue="JUnit.ConversionFunctionsTest.sixCupsIs96Tablespoons" />
-        <item itemvalue="JUnit.ConversionFunctionsTest.oneCupIs16Tablespoons" />
       </list>
     </recent_temporary>
   </component>
@@ -318,12 +320,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 16m 13s.xml">
-      <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 16m 52s.xml">
-      <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 17m 01s.xml">
       <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
     </history-entry>
@@ -346,6 +342,12 @@
       <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 21m 34s.xml">
+      <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 22m 27s.xml">
+      <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConversionFunctionsTest_invalidMonthReturnsEmptyString - 2018.05.01 at 20h 22m 37s.xml">
       <configuration name="ConversionFunctionsTest.invalidMonthReturnsEmptyString" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -386,7 +388,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -405,8 +407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/pcc/cis/conversion/ConversionFunctionsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="86" column="2" lean-forward="true" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
+        <state relative-caret-position="320">
+          <caret line="60" column="64" selection-start-line="60" selection-start-column="64" selection-end-line="60" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#291#292#0" expanded="true" />
@@ -425,6 +427,8 @@
             <element signature="e#2015#2016#0" expanded="true" />
             <element signature="e#2114#2115#0" expanded="true" />
             <element signature="e#2144#2145#0" expanded="true" />
+            <element signature="e#3860#3861#0" expanded="true" />
+            <element signature="e#3938#3939#0" expanded="true" />
           </folding>
         </state>
       </provider>
